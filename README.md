@@ -59,26 +59,19 @@ I'm a passionate Computer Science Engineer dedicated to crafting high-quality, v
 
 ## 🌟 Featured Projects
 
-### Project 1: [Project Name](https://github.com/KevinBiju2310/project-link)
-- Brief description of what this project does and what technologies you used
-- Key features and your contribution
-- 🛠️ Built with: React, NodeJS, MongoDB
+### Project 1: [Skyscroll](https://github.com/KevinBiju2310/SkyScroll_Frontend)
+- Engineered a comprehensive flight booking platform using React.js for frontend and Node.js/Express.js for backend
+- Implemented secure user authentication and authorization system using JWT tokens and cookie-based sessions
+- Developed real-time communication features using Socket.io for customer support chat functionality
+- Designed and implemented RESTful APIs for handling flight bookings, user management, and admin operations
+- 🛠️ Built with: React.js, Node.js, MongoDB, Express.js
 
-### Project 2: [Project Name](https://github.com/KevinBiju2310/project-link)
-- Brief description of what this project does and what technologies you used
-- Key features and your contribution
-- 🛠️ Built with: Flutter, Firebase
-
-### Project 3: [Project Name](https://github.com/KevinBiju2310/project-link)
-- Brief description of what this project does and what technologies you used
-- Key features and your contribution
-- 🛠️ Built with: Java, MySQL
-
-## 📈 My Coding Journey
-- 🎓 **Education**: Computer Science Engineering graduate
-- 💼 **Experience**: [Brief mention of any relevant work experience or internships]
-- 🌱 **Currently Learning**: [Mention what you're currently focusing on]
-- 🔭 **Future Goals**: [Brief mention of your career aspirations]
+### Project 2: [ClassyComforts](https://github.com/KevinBiju2310/ClassyComforts)
+- Developed a full-featured e-commerce platform using Node.js and Express.js with MVC architecture
+- Implemented secure payment gateway integration using Razorpay with real-time transaction status updates
+- Created robust inventory management system with CRUD operations for product management
+- Designed and implemented shopping cart functionality with session management
+- 🛠️ Built with: JavaScript, Node.js, MongoDB, EJS
 
 ## 📫 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss tech, potential projects, or just want to connect!
