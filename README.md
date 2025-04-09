@@ -79,7 +79,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KevinBiju2310&icon=0&color=0" alt="Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=KevinBiju2310&abbreviated=true" alt="Profile Views" />
 </div>
 
 <!-- Profile inspired by GPRM (https://gprm.itsvg.in) and customized by Kevin James Biju -->
