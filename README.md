@@ -1,8 +1,9 @@
+
+
 <div align="center">
+  # 👋 Hi, I'm Kevin James Biju
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Your Description" width="100%" />
 </div>
-
-# 👨‍💻 Kevin James Biju
 
 ## 🚀 About Me
 I'm a passionate Computer Science Engineer dedicated to crafting high-quality, visually stunning applications that deliver exceptional user experiences. With a strong foundation in computer science principles and meticulous attention to detail, I transform complex problems into elegant solutions. I continuously explore emerging technologies and industry trends to enhance my skills and contribute to innovative projects that push boundaries.
